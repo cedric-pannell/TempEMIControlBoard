@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T22:14:29.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="5TprpPpP9zNR015tG1Fn" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T22:30:04.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="B4_hgkf1N9qV5tWtBmTp" version="24.0.6" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="57" value="Elaborate&#xa;cost/benefit&#xa;ratio" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
           <mxGeometry x="306" y="341" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="09FCojD9WCbmgsTOjWXt-96" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Wireless Cabability&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;I/O:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Power:&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+        <mxCell id="09FCojD9WCbmgsTOjWXt-96" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Wireless Capability&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;I/O:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Power:&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
           <mxGeometry x="376" y="910" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="09FCojD9WCbmgsTOjWXt-97" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Modular Interface&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;(1 of #)&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;I/O:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Power:&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
@@ -70,10 +70,10 @@
         <mxCell id="09FCojD9WCbmgsTOjWXt-99" value="Solar Panel" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="30" y="750" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="09FCojD9WCbmgsTOjWXt-100" value="Rain Gauge" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+        <mxCell id="09FCojD9WCbmgsTOjWXt-100" value="Peripheral &#xa;(Rain Gauge)" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="710" y="528" width="90" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="09FCojD9WCbmgsTOjWXt-101" value="Oven" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+        <mxCell id="09FCojD9WCbmgsTOjWXt-101" value="Peripheral (Oven)" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
           <mxGeometry x="710" y="634" width="90" height="66" as="geometry" />
         </mxCell>
         <mxCell id="09FCojD9WCbmgsTOjWXt-102" value="Utility/Wall Power" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
@@ -82,14 +82,26 @@
         <mxCell id="09FCojD9WCbmgsTOjWXt-103" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Modular Expansion&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;I/O:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Power:&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
           <mxGeometry x="550" y="251" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="09FCojD9WCbmgsTOjWXt-104" value="ESP 32" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
+        <mxCell id="09FCojD9WCbmgsTOjWXt-104" value="Microcontroller" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
           <mxGeometry x="260" y="700" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="09FCojD9WCbmgsTOjWXt-105" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Modular Interface&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;(1 of #)&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;I/O:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Power:&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
           <mxGeometry x="550" y="660" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="09FCojD9WCbmgsTOjWXt-106" value="Discussed communication methods:&#xa;" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="186" y="462" width="90" height="66" as="geometry" />
+        <mxCell id="09FCojD9WCbmgsTOjWXt-106" value="One-wire&#xa;I2C&#xa;4-20 mA&#xa;SPI&#xa;UART&#xa;CAN Bus&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;align=left;verticalAlign=top;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="110" y="441" width="184" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="09FCojD9WCbmgsTOjWXt-107" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Power Control&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;I/O:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Power:&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="430" y="680" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="09FCojD9WCbmgsTOjWXt-109" value="Needed Functionality:&#xa;Analogue to digital (ADC)&#xa;Power Domain Control&#xa;&#xa;&#xa;" style="whiteSpace=wrap;align=left;verticalAlign=top;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
+          <mxGeometry x="321" y="466" width="184" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="09FCojD9WCbmgsTOjWXt-110" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Clock&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;I/O:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Power:&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="530" y="910" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="09FCojD9WCbmgsTOjWXt-111" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;Power Protection&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&amp;amp; Conversion&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;I/O:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left; margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Power:&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
+          <mxGeometry x="136" y="660" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
