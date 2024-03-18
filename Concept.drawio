@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T02:47:12.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PCdhOsZBcVWtnIOQpqPr" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T02:56:33.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="L_BVEF1RWe-QV6kpKHom" version="24.0.7" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2232" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -31,10 +31,10 @@
           <mxGeometry x="-740" y="-980" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="09FCojD9WCbmgsTOjWXt-104" value="Microcontroller&#xa;(ESP32-S3-DEVKITC)&#xa;&#xa;Internal Components&#xa;Internal Flash&#xa;Wifi&#xa;Bluetooth&#xa;" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
-          <mxGeometry x="-50" y="-1050" width="280" height="230" as="geometry" />
+          <mxGeometry x="-50" y="-1025" width="280" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="09FCojD9WCbmgsTOjWXt-109" value="TODO:&#xa;The SD card slot and RTC will take some ports. Determine how many, and how many remain for the modular port." style="whiteSpace=wrap;align=left;verticalAlign=top;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;spacingRight=1;spacingLeft=2;" parent="1" vertex="1">
-          <mxGeometry x="150" y="-400" width="220" height="180" as="geometry" />
+        <mxCell id="09FCojD9WCbmgsTOjWXt-109" value="TODO:&#xa;The SD card slot and RTC will take some ports. Determine how many, and how many remain for the modular port.&#xa;&#xa;For some use cases, a cellular connection is needed. For another, a LCD screen is needed." style="whiteSpace=wrap;align=left;verticalAlign=top;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;spacingRight=1;spacingLeft=2;" parent="1" vertex="1">
+          <mxGeometry x="180" y="-480" width="220" height="180" as="geometry" />
         </mxCell>
         <mxCell id="12we4bVMJa3LL7E-p55--65" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;3.3V&lt;/font&gt;" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;elbow=horizontal;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#990000;strokeWidth=2;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;fontStyle=0;labelPosition=center;verticalLabelPosition=top;" edge="1" parent="1" source="12we4bVMJa3LL7E-p55--72" target="09FCojD9WCbmgsTOjWXt-104">
           <mxGeometry relative="1" as="geometry">
@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="12we4bVMJa3LL7E-p55--97" value="Notes:&#xa;The ESP32 has an on-board LDO that can convert 5V to 3.3V." style="whiteSpace=wrap;align=left;verticalAlign=top;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" vertex="1" parent="1">
-          <mxGeometry x="460" y="-420" width="220" height="180" as="geometry" />
+          <mxGeometry x="480" y="-480" width="220" height="180" as="geometry" />
         </mxCell>
         <mxCell id="12we4bVMJa3LL7E-p55--103" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;elbow=horizontal;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.011;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#990000;strokeWidth=2;align=center;verticalAlign=bottom;fontFamily=Helvetica;fontSize=11;fontColor=default;fontStyle=0;labelBackgroundColor=default;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="09FCojD9WCbmgsTOjWXt-97" target="09FCojD9WCbmgsTOjWXt-104">
           <mxGeometry relative="1" as="geometry" />
